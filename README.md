@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nosorozhek
-- 📫 How to reach me:
-          nosorozhek239@gmail.com
-          t.me/Nosorozhek239
-          vk.com/nosorozhek239 
+## 👋 Hi, I’m @Nosorozhek
+## 📫 How to reach me:
+* [Gmail](nosorozhek239@gmail.com)
+* [Telegram](t.me/Nosorozhek239)
+* [VK](vk.com/nosorozhek239)
 
 <!---
 Nosorozhek/Nosorozhek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
